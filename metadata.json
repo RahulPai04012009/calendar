@@ -1,0 +1,5 @@
+{
+  "name": "SmartTrack - Homework Companion",
+  "description": "An intelligent homework tracker that uses Gemini to break down complex assignments, prioritize tasks, and visualize your study workload.",
+  "requestFramePermissions": []
+}
